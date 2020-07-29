@@ -5,28 +5,34 @@
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-420 593.64,-420 593.64,4 -4,4"/>
 <g id="clust1" class="cluster">
 <title>cluster_L</title>
-<polygon fill="none" stroke="black" points="17.5,-336 17.5,-408 277.5,-408 277.5,-336 17.5,-336"/>
+<polygon fill="none" stroke="black" points="45.5,-336 45.5,-408 277.5,-408 277.5,-336 45.5,-336"/>
 </g>
 <!-- legend -->
 <g id="node1" class="node">
 <title>legend</title>
-<polygon fill="#f8f8f8" stroke="black" points="269.07,-400 25.93,-400 25.93,-344 269.07,-344 269.07,-400"/>
-<text text-anchor="start" x="33.96" y="-386.4" font-family="Times,serif" font-size="12.00">System: NPM</text>
-<text text-anchor="start" x="33.96" y="-374.4" font-family="Times,serif" font-size="12.00">Package: phenyl&#45;utils</text>
-<text text-anchor="start" x="33.96" y="-362.4" font-family="Times,serif" font-size="12.00">Version: 0.1.4</text>
-<text text-anchor="start" x="33.96" y="-350.4" font-family="Times,serif" font-size="12.00">Min refresh time: 2020&#45;05&#45;27T15:31:50+10:00</text>
+<polygon fill="#f8f8f8" stroke="black" points="269.79,-400 53.2,-400 53.2,-344 269.79,-344 269.79,-400"/>
+<text text-anchor="start" x="61.35" y="-386.4" font-family="Times,serif" font-size="12.00">System: NPM</text>
+<text text-anchor="start" x="61.35" y="-374.4" font-family="Times,serif" font-size="12.00">Package: phenyl&#45;utils</text>
+<text text-anchor="start" x="61.35" y="-362.4" font-family="Times,serif" font-size="12.00">Version: 0.1.4</text>
+<text text-anchor="start" x="61.35" y="-350.4" font-family="Times,serif" font-size="12.00">Min refresh time: 2020&#45;07&#45;01T12:52:10Z</text>
 </g>
 <!-- 0 -->
 <g id="node2" class="node">
 <title>0</title>
+<g id="a_node2"><a xlink:href="https://deps.info/npm/phenyl-utils/0.1.4" xlink:title="phenyl&#45;utils 0.1.4">
 <polygon fill="#eceae8" stroke="#cdc3b4" points="387.83,-390 287.17,-390 287.17,-354 387.83,-354 387.83,-390"/>
 <text text-anchor="middle" x="337.5" y="-368.4" font-family="Times,serif" font-size="12.00">phenyl&#45;utils 0.1.4</text>
+</a>
+</g>
 </g>
 <!-- 1 -->
 <g id="node3" class="node">
 <title>1</title>
+<g id="a_node3"><a xlink:href="https://deps.info/npm/oad-utils/0.1.6" xlink:title="oad&#45;utils 0.1.6">
 <polygon fill="#eceae8" stroke="#cdc3b4" points="84.99,-122 0,-122 0,-86 84.99,-86 84.99,-122"/>
 <text text-anchor="middle" x="42.5" y="-100.4" font-family="Times,serif" font-size="12.00">oad&#45;utils 0.1.6</text>
+</a>
+</g>
 </g>
 <!-- 0&#45;&gt;1 -->
 <g id="edge1" class="edge">
@@ -38,8 +44,11 @@
 <!-- 2 -->
 <g id="node4" class="node">
 <title>2</title>
+<g id="a_node4"><a xlink:href="https://deps.info/npm/phenyl-interfaces/0.1.3" xlink:title="phenyl&#45;interfaces 0.1.3">
 <polygon fill="#eceae8" stroke="#cdc3b4" points="589.79,-294 463.21,-294 463.21,-258 589.79,-258 589.79,-294"/>
 <text text-anchor="middle" x="526.5" y="-272.4" font-family="Times,serif" font-size="12.00">phenyl&#45;interfaces 0.1.3</text>
+</a>
+</g>
 </g>
 <!-- 0&#45;&gt;2 -->
 <g id="edge2" class="edge">
@@ -51,8 +60,11 @@
 <!-- 3 -->
 <g id="node5" class="node">
 <title>3</title>
+<g id="a_node5"><a xlink:href="https://deps.info/npm/power-assign/0.2.10" xlink:title="power&#45;assign 0.2.10">
 <polygon fill="#eceae8" stroke="#cdc3b4" points="393.75,-294 281.25,-294 281.25,-258 393.75,-258 393.75,-294"/>
 <text text-anchor="middle" x="337.5" y="-272.4" font-family="Times,serif" font-size="12.00">power&#45;assign 0.2.10</text>
+</a>
+</g>
 </g>
 <!-- 0&#45;&gt;3 -->
 <g id="edge3" class="edge">
@@ -64,8 +76,11 @@
 <!-- 4 -->
 <g id="node6" class="node">
 <title>4</title>
+<g id="a_node6"><a xlink:href="https://deps.info/npm/deepmerge/2.2.1" xlink:title="deepmerge 2.2.1">
 <polygon fill="#eceae8" stroke="#cdc3b4" points="180.42,-36 84.57,-36 84.57,0 180.42,0 180.42,-36"/>
 <text text-anchor="middle" x="132.5" y="-14.4" font-family="Times,serif" font-size="12.00">deepmerge 2.2.1</text>
+</a>
+</g>
 </g>
 <!-- 1&#45;&gt;4 -->
 <g id="edge4" class="edge">
@@ -77,8 +92,11 @@
 <!-- 5 -->
 <g id="node7" class="node">
 <title>5</title>
+<g id="a_node7"><a xlink:href="https://deps.info/npm/mongolike-operations/0.1.5" xlink:title="mongolike&#45;operations 0.1.5">
 <polygon fill="#eceae8" stroke="#cdc3b4" points="464.81,-36 316.19,-36 316.19,0 464.81,0 464.81,-36"/>
 <text text-anchor="middle" x="390.5" y="-14.4" font-family="Times,serif" font-size="12.00">mongolike&#45;operations 0.1.5</text>
+</a>
+</g>
 </g>
 <!-- 1&#45;&gt;5 -->
 <g id="edge5" class="edge">
@@ -104,8 +122,11 @@
 <!-- 6 -->
 <g id="node8" class="node">
 <title>6</title>
+<g id="a_node8"><a xlink:href="https://deps.info/npm/fast-deep-equal/1.1.0" xlink:title="fast&#45;deep&#45;equal 1.1.0">
 <polygon fill="#eceae8" stroke="#cdc3b4" points="219.95,-122 103.04,-122 103.04,-86 219.95,-86 219.95,-122"/>
 <text text-anchor="middle" x="161.5" y="-100.4" font-family="Times,serif" font-size="12.00">fast&#45;deep&#45;equal 1.1.0</text>
+</a>
+</g>
 </g>
 <!-- 3&#45;&gt;6 -->
 <g id="edge7" class="edge">
@@ -117,8 +138,11 @@
 <!-- 7 -->
 <g id="node9" class="node">
 <title>7</title>
+<g id="a_node9"><a xlink:href="https://deps.info/npm/oad-utils/0.3.0" xlink:title="oad&#45;utils 0.3.0">
 <polygon fill="#eceae8" stroke="#cdc3b4" points="496.99,-122 412,-122 412,-86 496.99,-86 496.99,-122"/>
 <text text-anchor="middle" x="454.5" y="-100.4" font-family="Times,serif" font-size="12.00">oad&#45;utils 0.3.0</text>
+</a>
+</g>
 </g>
 <!-- 3&#45;&gt;7 -->
 <g id="edge9" class="edge">
@@ -130,8 +154,11 @@
 <!-- 8 -->
 <g id="node10" class="node">
 <title>8</title>
+<g id="a_node10"><a xlink:href="https://deps.info/npm/power-filter/0.1.9" xlink:title="power&#45;filter 0.1.9">
 <polygon fill="#eceae8" stroke="#cdc3b4" points="351.41,-208 251.58,-208 251.58,-172 351.41,-172 351.41,-208"/>
 <text text-anchor="middle" x="301.5" y="-186.4" font-family="Times,serif" font-size="12.00">power&#45;filter 0.1.9</text>
+</a>
+</g>
 </g>
 <!-- 3&#45;&gt;8 -->
 <g id="edge10" class="edge">
@@ -171,8 +198,11 @@
 <!-- 9 -->
 <g id="node11" class="node">
 <title>9</title>
+<g id="a_node11"><a xlink:href="https://deps.info/npm/oad-utils/0.3.0" xlink:title="oad&#45;utils 0.3.0">
 <polygon fill="#eceae8" stroke="#cdc3b4" points="322.99,-122 238,-122 238,-86 322.99,-86 322.99,-122"/>
 <text text-anchor="middle" x="280.5" y="-100.4" font-family="Times,serif" font-size="12.00">oad&#45;utils 0.3.0</text>
+</a>
+</g>
 </g>
 <!-- 8&#45;&gt;9 -->
 <g id="edge15" class="edge">
